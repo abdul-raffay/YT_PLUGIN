@@ -32,7 +32,8 @@ class Youtube_Subs_Widget extends WP_Widget {
         
         // Actual Output Content
         // echo esc_html__( 'Hello, World!', 'yts_domain' );
-        echo "Hello from YTS widget";
+        // echo "Hello from YTS widget";    // for checking
+        echo '<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="full" data-count="default"></div>';
         
 		echo $args['after_widget'];     // Whatever you want to display after widget(</div>, etc)
 	}

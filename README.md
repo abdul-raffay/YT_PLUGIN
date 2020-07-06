@@ -1,1 +1,1 @@
-(Traversy Media WP Widget Plugin)[https://www.youtube.com/watch?v=eZn3tfF5GFM]
+[Traversy Media WP Widget Plugin](https://www.youtube.com/watch?v=eZn3tfF5GFM)
